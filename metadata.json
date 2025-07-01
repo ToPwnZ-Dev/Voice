@@ -1,0 +1,8 @@
+{
+  "name": "Hlasový Mišmaš",
+  "description": "Hřiště pro objevování škály kreativních hlasů, které nativní zvukový výstup nabízí.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
